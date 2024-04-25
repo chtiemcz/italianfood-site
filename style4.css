@@ -1,0 +1,72 @@
+body {
+	background-image: url(assets/background-stats.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+	color: gray;
+}
+
+#logo {
+	margin-left: 80px;
+	margin-top: 40px;
+	width: auto;
+	position: absolute;
+}
+
+
+
+.nav {
+	position: absolute;
+	color: white;
+	margin-left: 410px;
+	margin-top: 75px;
+	font-family: Arial, sans-serif;
+	font-size: 23px;
+}
+
+div span {
+  margin-right: 50px; /* Добавляет отступ справа каждому span, чтобы они располагались дальше друг от друга */
+}
+
+#stats {
+	position: absolute;
+	color: white;
+	font-size: 50px;
+	font-family: Arial, sans-serif;
+	margin-top: 160px;
+	margin-left: 860px;
+}
+
+#stats-info {
+	position: absolute;
+	color: #e6dede;
+	font-size: 25px;
+	font-family: Arial, sans-serif;
+	margin-top: 240px;
+	margin-left: 500px;
+}
+
+#pizza-store {
+	position: absolute;
+	margin-left: 350px;
+	margin-top: 500px;
+}
+
+#menu-store {
+	position: absolute;
+	margin-left: 850px;
+	margin-top: 500px;
+}
+
+#szef-store {
+	position: absolute;
+	margin-left: 1350px;
+	margin-top: 500px;
+}

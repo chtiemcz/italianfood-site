@@ -1,0 +1,127 @@
+body {
+	background-image: url(assets/background-products.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+	color: gray;
+}
+
+#logo {
+	margin-left: 80px;
+	margin-top: 40px;
+	width: auto;
+	position: absolute;
+}
+
+
+
+.nav {
+	position: absolute;
+	color: white;
+	margin-left: 410px;
+	margin-top: 75px;
+	font-family: Arial, sans-serif;
+	font-size: 23px;
+}
+
+div span {
+  margin-right: 50px; /* Добавляет отступ справа каждому span, чтобы они располагались дальше друг от друга */
+}
+
+
+#menup {
+	position: absolute;
+	color: white;
+	margin-left: 700px;
+	margin-top: 170px;
+	font-family: Arial, sans-serif;
+	font-size: 60px;
+}
+
+#infop {
+	position: absolute;
+	color: white;
+	margin-left: 550px;
+	margin-top: 250px;
+	font-family: 'Finlandica', sans-serif;
+	font-size: 20px;
+}
+
+#pizza1 {
+	position: absolute;
+	margin-left: 350px;
+	margin-top: 400px;
+}
+
+#mg {
+	position: absolute;
+	color: white;
+	font-size: 35px;
+	margin-left: 320px;
+	margin-top: 650px;
+	font-family: 'Finlandica', sans-serif;
+}
+
+#infomg {
+	position: absolute;
+	color: white;
+	font-size: 15px;
+	margin-left: 300px;
+	margin-top: 700px;
+	font-family: Arial, sans-serif;
+}
+
+#pizza2 {
+	position: absolute;
+	margin-left: 850px;
+	margin-top: 400px;
+}
+
+#pp {
+	position: absolute;
+	color: white;
+	font-size: 35px;
+	margin-left: 800px;
+	margin-top: 650px;
+	font-family: 'Finlandica', sans-serif;
+}
+
+#infopp {
+	position: absolute;
+	color: white;
+	font-size: 15px;
+	margin-left: 770px;
+	margin-top: 700px;
+	font-family: Arial, sans-serif;
+}
+
+#pizza3 {
+	position: absolute;
+	margin-left: 1380px;
+	margin-top: 390px;
+}
+
+#gs {
+	position: absolute;
+	color: white;
+	font-size: 35px;
+	margin-left: 1370px;
+	margin-top: 650px;
+	font-family: 'Finlandica', sans-serif;
+}
+
+#infogs {
+	position: absolute;
+	color: white;
+	font-size: 15px;
+	margin-left: 1310px;
+	margin-top: 700px;
+	font-family: Arial, sans-serif;
+}

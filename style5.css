@@ -1,0 +1,74 @@
+body {
+	background-image: url(assets/background-contact.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+	color: gray;
+}
+
+#logo {
+	margin-left: 80px;
+	margin-top: 40px;
+	width: auto;
+	position: absolute;
+}
+
+
+
+.nav {
+	position: absolute;
+	color: white;
+	margin-left: 410px;
+	margin-top: 75px;
+	font-family: Arial, sans-serif;
+	font-size: 23px;
+}
+
+div span {
+  margin-right: 50px; /* Добавляет отступ справа каждому span, чтобы они располагались дальше друг от друга */
+}
+
+#contact1 {
+	position: absolute;
+	font-size: 50px;
+	color: white;
+	font-family: Arial, sans-serif;
+	margin-top: 180px;
+	margin-left: 790px;
+}
+
+#mail-img {
+	position: absolute;
+	margin-top: 350px;
+	margin-left: 550px;
+}
+
+#mail-text {
+	position: absolute;
+	font-size: 50px;
+	color: white;
+	font-family: Arial, sans-serif;
+	margin-top: 360px;
+	margin-left: 690px;
+}
+#insta-img {
+	position: absolute;
+	margin-top: 490px;
+	margin-left: 550px;
+}
+
+#insta-text {
+	position: absolute;
+	font-size: 50px;
+	color: white;
+	font-family: Arial, sans-serif;
+	margin-top: 510px;
+	margin-left: 690px;
+}

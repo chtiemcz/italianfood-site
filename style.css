@@ -1,0 +1,74 @@
+body {
+	background-image: url(assets/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+	color: gray;
+}
+
+#logo {
+	margin-left: 80px;
+	margin-top: 40px;
+	width: auto;
+	position: absolute;
+}
+
+
+
+.nav {
+	position: absolute;
+	color: white;
+	margin-left: 410px;
+	margin-top: 75px;
+	font-family: Arial, sans-serif;
+	font-size: 23px;
+}
+
+div span {
+  margin-right: 50px; /* Добавляет отступ справа каждому span, чтобы они располагались дальше друг от друга */
+}
+
+#bestpizza {
+	position: absolute;
+	color: white;
+	font-family: Arial, sans-serif;
+	font-size: 80px;
+	margin-left: 100px;
+	margin-top: 320px;
+}
+
+#infopizza {
+	position: absolute;
+	color: white;
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	margin-top: 450px;
+	margin-left: 90px;
+}
+
+#bgbuy {
+	position: absolute;
+	margin-left: 90px;
+	margin-top: 570px;
+}
+
+#buy {
+	position: absolute;
+	color: #222222;
+	font-family: 'Finlandica', sans-serif;
+	font-size: 40px;
+	margin-left: 113px;
+	margin-top: 580px;
+}
+
+#buy:hover {
+	color: gray;
+}
+

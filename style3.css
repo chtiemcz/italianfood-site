@@ -1,0 +1,69 @@
+body {
+	background-image: url(assets/background-promo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+	color: gray;
+}
+
+#logo {
+	margin-left: 80px;
+	margin-top: 40px;
+	width: auto;
+	position: absolute;
+}
+
+
+
+.nav {
+	position: absolute;
+	color: white;
+	margin-left: 410px;
+	margin-top: 75px;
+	font-family: Arial, sans-serif;
+	font-size: 23px;
+}
+
+div span {
+  margin-right: 50px; /* Добавляет отступ справа каждому span, чтобы они располагались дальше друг от друга */
+}
+
+#promo {
+	position: absolute;
+	color: white;
+	margin-left: 200px;
+	margin-top: 300px;
+	font-family: Arial, sans-serif;
+	font-size: 70px;
+}
+
+#promo2 {
+	position: absolute;
+	color: white;
+	margin-left: 200px;
+	margin-top: 380px;
+	font-family: Arial, sans-serif;
+	font-size: 35px;
+}
+
+#skidka {
+	position: absolute;
+	color: white;
+	margin-left: 200px;
+	margin-top: 450px;
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+}
+
+#order-now {
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 570px;
+}
